@@ -50,12 +50,12 @@ ul.posts li {
 
 @font-face {
     font-family: 'fabfeltscriptbold';
-    src: url('fabfeltscript-bold.eot');
-    src: url('fabfeltscript-bold.eot?#iefix') format('embedded-opentype'),
-         url('fabfeltscript-bold.woff2') format('woff2'),
-         url('fabfeltscript-bold.woff') format('woff'),
-         url('fabfeltscript-bold.ttf') format('truetype'),
-         url('fabfeltscript-bold.svg#fabfeltscriptbold') format('svg');
+    src: url('/fonts/fabfeltscript-bold.eot');
+    src: url('/fonts/fabfeltscript-bold.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/fabfeltscript-bold.woff2') format('woff2'),
+         url('/fonts/fabfeltscript-bold.woff') format('woff'),
+         url('/fonts/fabfeltscript-bold.ttf') format('truetype'),
+         url('/fonts/fabfeltscript-bold.svg#fabfeltscriptbold') format('svg');
     font-weight: normal;
     font-style: normal;
 }
