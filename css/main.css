@@ -22,16 +22,17 @@ a:hover {
 }
 h1 {
     font-size: 3.5em;
-    font-family:'fabfeltscriptbold', 'Helvetica', 'Arial';
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 h2 {
     font-size: 1.7em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'fabfeltscriptbold', 'Helvetica', 'Arial';
 }
 p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 footer {
     border-top: 1px solid #d5d5d5;
