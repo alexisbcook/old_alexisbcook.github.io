@@ -22,7 +22,7 @@ a:hover {
 }
 h1 {
     font-size: 2.5em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'FabFeltScript-Bold';
 }
 h2 {
     font-size: 1.7em;
@@ -45,4 +45,15 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+}
+
+@font-face{
+    font-family: 'FabFeltScript-Bold';
+    src: url('fonts/fabfeltscript-bold.eot');
+    src:
+        url('fonts/fabfeltscript-bold.otf')
+        format('opentype');
+    src:
+        url('fonts/fabfeltscript-bold.ttf')
+        format('truetype');
 }
