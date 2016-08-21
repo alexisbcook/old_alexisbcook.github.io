@@ -17,7 +17,8 @@ a {
     color: #999;
 }
 a:hover {
-    text-decoration: underline;
+    text-decoration: none;
+    color: hotpink;
 }
 h1 {
     font-size: 3em;
